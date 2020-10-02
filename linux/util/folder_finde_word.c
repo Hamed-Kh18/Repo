@@ -155,3 +155,5 @@ int main(int argc,
     }
     closedir(dir_handle);
 } 
+
+// hi my friends

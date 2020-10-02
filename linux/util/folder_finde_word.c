@@ -125,7 +125,7 @@ int main(int argc,
             free(file_content);
             continue;
         }
-
+// inja yek test bray commit github ast
         size_t read_len = fread(file_content, 1, file_len, file_handle);
         if (read_len != file_len) {
             printf(
